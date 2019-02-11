@@ -1,0 +1,51 @@
+Node,Id,Label,x,y,Continente,colour
+Egipto,1,Egipto,153.31,52.33,Africa,#CFA280
+Madagascar,2,Madagascar,168.16,36.01,Africa,#CFA280
+Etiopia,3,Etiopia,149.2,44.98,Africa,#CFA280
+Zaire,4,Zaire,139.05,39.69,Africa,#CFA280
+Sahara,5,Sahara,128.76,49.54,Africa,#CFA280
+Sudafrica,6,Sudafrica,150.52,29.99,Africa,#CFA280
+Alaska,7,Alaska,2.49,97.91,América del Norte,#D5A078
+Yukon,8,Yukon,15.59,107.68,América del Norte,#D5A078
+Canada,9,Canada,29.1,118.49,América del Norte,#D5A078
+Oregon,10,Oregon,18.71,92.09,América del Norte,#D5A078
+California,11,California,32.43,88.14,América del Norte,#D5A078
+Nueva York,12,Nueva York,38.25,97.91,América del Norte,#D5A078
+Terranova,13,Terranova,47.19,103.11,América del Norte,#D5A078
+Labrador,14,Labrador,53.42,111.63,América del Norte,#D5A078
+Groenlandia,15,Groenlandia,69.01,125.77,América del Norte,#D5A078
+Mexico,16,Mexico,43.86,78.79,América del Norte,#D5A078
+Colombia,17,Colombia,63.19,66.94,América del sur,#9B8C55
+Peru,18,Peru,65.07,57.17,América del sur,#9B8C55
+Brasil,19,Brasil,80.45,60.08,América del sur,#9B8C55
+Argentina,20,Argentina,68.18,39.91,América del sur,#9B8C55
+Chile,21,Chile,62.16,42.82,América del sur,#9B8C55
+Uruguay,22,Uruguay,79.82,46.36,América del sur,#9B8C55
+Malasia,23,Malasia,201.38,81.73,Asia,#AFAA8A
+India,24,India,187.27,75.55,Asia,#AFAA8A
+China,25,China,191.09,101.13,Asia,#AFAA8A
+Japon,26,Japon,203.58,116.86,Asia,#AFAA8A
+Katchatka,27,Katchatka,185.06,125.09,Asia,#AFAA8A
+Siberia,28,Siberia,172.42,116.12,Asia,#AFAA8A
+Taimir,29,Taimir,171.1,124.06,Asia,#AFAA8A
+Tartaria,30,Tartaria,163.45,127.44,Asia,#AFAA8A
+Aral,31,Aral,156.4,119.06,Asia,#AFAA8A
+Iran,32,Iran,166.98,95.4,Asia,#AFAA8A
+Turquia,33,Turquia,165.51,81.73,Asia,#AFAA8A
+Israel,34,Israel,160.51,72.03,Asia,#AFAA8A
+Mongolia,35,Mongolia,174.33,106.27,Asia,#AFAA8A
+Gobi,36,Gobi,178.01,95.84,Asia,#AFAA8A
+Arabia,37,Arabia,169.48,67.03,Asia,#AFAA8A
+España,38,España,109.8,69.67,Europa,#CBB2B6
+Francia,39,Francia,124.35,78.79,Europa,#CBB2B6
+Alemania,40,Alemania,137.29,84.37,Europa,#CBB2B6
+Polonia,41,Polonia,147.43,88.05,Europa,#CBB2B6
+Rusia,42,Rusia,150.96,108.19,Europa,#CBB2B6
+Suecia,43,Suecia,129.65,115.53,Europa,#CBB2B6
+Islandia,44,Islandia,91.58,97.01,Europa,#CBB2B6
+Gran Bretaña,45,Gran Bretaña,114.95,93.05,Europa,#CBB2B6
+Italia,46,Italia,136.7,66.88,Europa,#CBB2B6
+Australia,47,Australia,199.91,41.89,Oceania,#80A7A7
+Borneo,48,Borneo,196.09,63.21,Oceania,#80A7A7
+Sumatra,49,Sumatra,180.5,55.42,Oceania,#80A7A7
+Java,50,Java,205.2,64.97,Oceania,#80A7A7

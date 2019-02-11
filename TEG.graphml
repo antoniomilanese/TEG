@@ -1,0 +1,1078 @@
+<?xml version="1.0" encoding="UTF-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<key attr.name="label" attr.type="string" for="node" id="label"/>
+<key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+<key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+<key attr.name="r" attr.type="int" for="node" id="r"/>
+<key attr.name="g" attr.type="int" for="node" id="g"/>
+<key attr.name="b" attr.type="int" for="node" id="b"/>
+<key attr.name="x" attr.type="float" for="node" id="x"/>
+<key attr.name="y" attr.type="float" for="node" id="y"/>
+<key attr.name="size" attr.type="float" for="node" id="size"/>
+<key attr.name="node" attr.type="string" for="node" id="node"/>
+<key attr.name="x" attr.type="double" for="node" id="x"/>
+<key attr.name="y" attr.type="double" for="node" id="y"/>
+<key attr.name="continente" attr.type="string" for="node" id="continente"/>
+<key attr.name="colour" attr.type="string" for="node" id="colour"/>
+<key attr.name="Modularity Class" attr.type="int" for="node" id="modularity_class"/>
+<key attr.name="PageRank" attr.type="double" for="node" id="pageranks"/>
+<graph edgedefault="undirected">
+<node id="7">
+<data key="label">Alaska</data>
+<data key="node">Alaska</data>
+<data key="x">2.49</data>
+<data key="y">97.91</data>
+<data key="continente">América del Norte</data>
+<data key="colour">#D5A078</data>
+<data key="modularity_class">0</data>
+<data key="pageranks">0.01725318727174324</data>
+<data key="size">20.929537</data>
+<data key="r">100</data>
+<data key="g">127</data>
+<data key="b">212</data>
+<data key="x">-250.43358</data>
+<data key="y">-413.68185</data>
+</node>
+<node id="8">
+<data key="label">Yukon</data>
+<data key="node">Yukon</data>
+<data key="x">15.59</data>
+<data key="y">107.68</data>
+<data key="continente">América del Norte</data>
+<data key="colour">#D5A078</data>
+<data key="modularity_class">0</data>
+<data key="pageranks">0.017545872938278924</data>
+<data key="size">21.31026</data>
+<data key="r">100</data>
+<data key="g">127</data>
+<data key="b">212</data>
+<data key="x">-366.04486</data>
+<data key="y">-492.07632</data>
+</node>
+<node id="10">
+<data key="label">Oregon</data>
+<data key="node">Oregon</data>
+<data key="x">18.71</data>
+<data key="y">92.09</data>
+<data key="continente">América del Norte</data>
+<data key="colour">#D5A078</data>
+<data key="modularity_class">0</data>
+<data key="pageranks">0.027964430351128396</data>
+<data key="size">34.862663</data>
+<data key="r">100</data>
+<data key="g">127</data>
+<data key="b">212</data>
+<data key="x">-429.9819</data>
+<data key="y">-422.91415</data>
+</node>
+<node id="9">
+<data key="label">Canada</data>
+<data key="node">Canada</data>
+<data key="x">29.1</data>
+<data key="y">118.49</data>
+<data key="continente">América del Norte</data>
+<data key="colour">#D5A078</data>
+<data key="modularity_class">0</data>
+<data key="pageranks">0.023074675204054568</data>
+<data key="size">28.502096</data>
+<data key="r">100</data>
+<data key="g">127</data>
+<data key="b">212</data>
+<data key="x">-477.7022</data>
+<data key="y">-518.34656</data>
+</node>
+<node id="12">
+<data key="label">Nueva York</data>
+<data key="node">Nueva York</data>
+<data key="x">38.25</data>
+<data key="y">97.91</data>
+<data key="continente">América del Norte</data>
+<data key="colour">#D5A078</data>
+<data key="modularity_class">0</data>
+<data key="pageranks">0.02924578151334133</data>
+<data key="size">36.529438</data>
+<data key="r">100</data>
+<data key="g">127</data>
+<data key="b">212</data>
+<data key="x">-550.67084</data>
+<data key="y">-450.9974</data>
+</node>
+<node id="13">
+<data key="label">Terranova</data>
+<data key="node">Terranova</data>
+<data key="x">47.19</data>
+<data key="y">103.11</data>
+<data key="continente">América del Norte</data>
+<data key="colour">#D5A078</data>
+<data key="modularity_class">0</data>
+<data key="pageranks">0.018978488707178307</data>
+<data key="size">23.1738</data>
+<data key="r">100</data>
+<data key="g">127</data>
+<data key="b">212</data>
+<data key="x">-581.9009</data>
+<data key="y">-557.47516</data>
+</node>
+<node id="11">
+<data key="label">California</data>
+<data key="node">California</data>
+<data key="x">32.43</data>
+<data key="y">88.14</data>
+<data key="continente">América del Norte</data>
+<data key="colour">#D5A078</data>
+<data key="modularity_class">0</data>
+<data key="pageranks">0.018455676050285474</data>
+<data key="size">22.493729</data>
+<data key="r">100</data>
+<data key="g">127</data>
+<data key="b">212</data>
+<data key="x">-491.1137</data>
+<data key="y">-300.2334</data>
+</node>
+<node id="16">
+<data key="label">Mexico</data>
+<data key="node">Mexico</data>
+<data key="x">43.86</data>
+<data key="y">78.79</data>
+<data key="continente">América del Norte</data>
+<data key="colour">#D5A078</data>
+<data key="modularity_class">1</data>
+<data key="pageranks">0.013480909721068137</data>
+<data key="size">16.02258</data>
+<data key="r">255</data>
+<data key="g">78</data>
+<data key="b">40</data>
+<data key="x">-450.67392</data>
+<data key="y">-88.35917</data>
+</node>
+<node id="15">
+<data key="label">Groenlandia</data>
+<data key="node">Groenlandia</data>
+<data key="x">69.01</data>
+<data key="y">125.77</data>
+<data key="continente">América del Norte</data>
+<data key="colour">#D5A078</data>
+<data key="modularity_class">0</data>
+<data key="pageranks">0.01407499954851252</data>
+<data key="size">16.795368</data>
+<data key="r">100</data>
+<data key="g">127</data>
+<data key="b">212</data>
+<data key="x">-648.68335</data>
+<data key="y">-541.3425</data>
+</node>
+<node id="14">
+<data key="label">Labrador</data>
+<data key="node">Labrador</data>
+<data key="x">53.42</data>
+<data key="y">111.63</data>
+<data key="continente">América del Norte</data>
+<data key="colour">#D5A078</data>
+<data key="modularity_class">0</data>
+<data key="pageranks">0.014359082916481</data>
+<data key="size">17.164902</data>
+<data key="r">100</data>
+<data key="g">127</data>
+<data key="b">212</data>
+<data key="x">-667.5842</data>
+<data key="y">-617.7882</data>
+</node>
+<node id="44">
+<data key="label">Islandia</data>
+<data key="node">Islandia</data>
+<data key="x">91.58</data>
+<data key="y">97.01</data>
+<data key="continente">Europa</data>
+<data key="colour">#CBB2B6</data>
+<data key="modularity_class">6</data>
+<data key="pageranks">0.014537005549276779</data>
+<data key="size">17.396343</data>
+<data key="r">224</data>
+<data key="g">77</data>
+<data key="b">154</data>
+<data key="x">439.4187</data>
+<data key="y">298.74356</data>
+</node>
+<node id="17">
+<data key="label">Colombia</data>
+<data key="node">Colombia</data>
+<data key="x">63.19</data>
+<data key="y">66.94</data>
+<data key="continente">América del sur</data>
+<data key="colour">#9B8C55</data>
+<data key="modularity_class">1</data>
+<data key="pageranks">0.018534661991898137</data>
+<data key="size">22.596472</data>
+<data key="r">255</data>
+<data key="g">78</data>
+<data key="b">40</data>
+<data key="x">-367.72614</data>
+<data key="y">117.6405</data>
+</node>
+<node id="19">
+<data key="label">Brasil</data>
+<data key="node">Brasil</data>
+<data key="x">80.45</data>
+<data key="y">60.08</data>
+<data key="continente">América del sur</data>
+<data key="colour">#9B8C55</data>
+<data key="modularity_class">1</data>
+<data key="pageranks">0.028384802360021683</data>
+<data key="size">35.409477</data>
+<data key="r">255</data>
+<data key="g">78</data>
+<data key="b">40</data>
+<data key="x">-224.15524</data>
+<data key="y">286.21277</data>
+</node>
+<node id="18">
+<data key="label">Peru</data>
+<data key="node">Peru</data>
+<data key="x">65.07</data>
+<data key="y">57.17</data>
+<data key="continente">América del sur</data>
+<data key="colour">#9B8C55</data>
+<data key="modularity_class">1</data>
+<data key="pageranks">0.023431881234136018</data>
+<data key="size">28.966747</data>
+<data key="r">255</data>
+<data key="g">78</data>
+<data key="b">40</data>
+<data key="x">-340.24658</data>
+<data key="y">211.99744</data>
+</node>
+<node id="20">
+<data key="label">Argentina</data>
+<data key="node">Argentina</data>
+<data key="x">68.18</data>
+<data key="y">39.91</data>
+<data key="continente">América del sur</data>
+<data key="colour">#9B8C55</data>
+<data key="modularity_class">1</data>
+<data key="pageranks">0.02360185689527491</data>
+<data key="size">29.18785</data>
+<data key="r">255</data>
+<data key="g">78</data>
+<data key="b">40</data>
+<data key="x">-313.47958</data>
+<data key="y">299.31403</data>
+</node>
+<node id="21">
+<data key="label">Chile</data>
+<data key="node">Chile</data>
+<data key="x">62.16</data>
+<data key="y">42.82</data>
+<data key="continente">América del sur</data>
+<data key="colour">#9B8C55</data>
+<data key="modularity_class">1</data>
+<data key="pageranks">0.018846905026205864</data>
+<data key="size">23.002636</data>
+<data key="r">255</data>
+<data key="g">78</data>
+<data key="b">40</data>
+<data key="x">-299.64465</data>
+<data key="y">146.03355</data>
+</node>
+<node id="22">
+<data key="label">Uruguay</data>
+<data key="node">Uruguay</data>
+<data key="x">79.82</data>
+<data key="y">46.36</data>
+<data key="continente">América del sur</data>
+<data key="colour">#9B8C55</data>
+<data key="modularity_class">1</data>
+<data key="pageranks">0.012841127579992496</data>
+<data key="size">15.190353</data>
+<data key="r">255</data>
+<data key="g">78</data>
+<data key="b">40</data>
+<data key="x">-308.3982</data>
+<data key="y">365.92273</data>
+</node>
+<node id="47">
+<data key="label">Australia</data>
+<data key="node">Australia</data>
+<data key="x">199.91</data>
+<data key="y">41.89</data>
+<data key="continente">Oceania</data>
+<data key="colour">#80A7A7</data>
+<data key="modularity_class">2</data>
+<data key="pageranks">0.027523633660193142</data>
+<data key="size">34.289276</data>
+<data key="r">0</data>
+<data key="g">143</data>
+<data key="b">106</data>
+<data key="x">-263.3718</data>
+<data key="y">14.9912</data>
+</node>
+<node id="50">
+<data key="label">Java</data>
+<data key="node">Java</data>
+<data key="x">205.2</data>
+<data key="y">64.97</data>
+<data key="continente">Oceania</data>
+<data key="colour">#80A7A7</data>
+<data key="modularity_class">2</data>
+<data key="pageranks">0.008850986589375482</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">143</data>
+<data key="b">106</data>
+<data key="x">-375.3693</data>
+<data key="y">10.043001</data>
+</node>
+<node id="48">
+<data key="label">Borneo</data>
+<data key="node">Borneo</data>
+<data key="x">196.09</data>
+<data key="y">63.21</data>
+<data key="continente">Oceania</data>
+<data key="colour">#80A7A7</data>
+<data key="modularity_class">2</data>
+<data key="pageranks">0.01389879744466719</data>
+<data key="size">16.566164</data>
+<data key="r">0</data>
+<data key="g">143</data>
+<data key="b">106</data>
+<data key="x">-191.63707</data>
+<data key="y">-88.40658</data>
+</node>
+<node id="49">
+<data key="label">Sumatra</data>
+<data key="node">Sumatra</data>
+<data key="x">180.5</data>
+<data key="y">55.42</data>
+<data key="continente">Oceania</data>
+<data key="colour">#80A7A7</data>
+<data key="modularity_class">2</data>
+<data key="pageranks">0.01355239707116873</data>
+<data key="size">16.11557</data>
+<data key="r">0</data>
+<data key="g">143</data>
+<data key="b">106</data>
+<data key="x">-136.80943</data>
+<data key="y">-41.37982</data>
+</node>
+<node id="23">
+<data key="label">Malasia</data>
+<data key="node">Malasia</data>
+<data key="x">201.38</data>
+<data key="y">81.73</data>
+<data key="continente">Asia</data>
+<data key="colour">#AFAA8A</data>
+<data key="modularity_class">2</data>
+<data key="pageranks">0.01781398166587672</data>
+<data key="size">21.659016</data>
+<data key="r">0</data>
+<data key="g">143</data>
+<data key="b">106</data>
+<data key="x">-67.16219</data>
+<data key="y">-146.28221</data>
+</node>
+<node id="24">
+<data key="label">India</data>
+<data key="node">India</data>
+<data key="x">187.27</data>
+<data key="y">75.55</data>
+<data key="continente">Asia</data>
+<data key="colour">#AFAA8A</data>
+<data key="modularity_class">2</data>
+<data key="pageranks">0.022123697073421864</data>
+<data key="size">27.265068</data>
+<data key="r">0</data>
+<data key="g">143</data>
+<data key="b">106</data>
+<data key="x">-3.8379178</data>
+<data key="y">-81.47237</data>
+</node>
+<node id="25">
+<data key="label">China</data>
+<data key="node">China</data>
+<data key="x">191.09</data>
+<data key="y">101.13</data>
+<data key="continente">Asia</data>
+<data key="colour">#AFAA8A</data>
+<data key="modularity_class">3</data>
+<data key="pageranks">0.039601422743691175</data>
+<data key="size">50.0</data>
+<data key="r">52</data>
+<data key="g">170</data>
+<data key="b">0</data>
+<data key="x">46.375977</data>
+<data key="y">-194.70203</data>
+</node>
+<node id="32">
+<data key="label">Iran</data>
+<data key="node">Iran</data>
+<data key="x">166.98</data>
+<data key="y">95.4</data>
+<data key="continente">Asia</data>
+<data key="colour">#AFAA8A</data>
+<data key="modularity_class">4</data>
+<data key="pageranks">0.03385055190353891</data>
+<data key="size">42.5193</data>
+<data key="r">0</data>
+<data key="g">173</data>
+<data key="b">222</data>
+<data key="x">147.75935</data>
+<data key="y">-39.823822</data>
+</node>
+<node id="26">
+<data key="label">Japon</data>
+<data key="node">Japon</data>
+<data key="x">203.58</data>
+<data key="y">116.86</data>
+<data key="continente">Asia</data>
+<data key="colour">#AFAA8A</data>
+<data key="modularity_class">3</data>
+<data key="pageranks">0.011735005339634313</data>
+<data key="size">13.751516</data>
+<data key="r">52</data>
+<data key="g">170</data>
+<data key="b">0</data>
+<data key="x">34.0383</data>
+<data key="y">-310.92947</data>
+</node>
+<node id="27">
+<data key="label">Katchatka</data>
+<data key="node">Katchatka</data>
+<data key="x">185.06</data>
+<data key="y">125.09</data>
+<data key="continente">Asia</data>
+<data key="colour">#AFAA8A</data>
+<data key="modularity_class">3</data>
+<data key="pageranks">0.021308137243207556</data>
+<data key="size">26.204193</data>
+<data key="r">52</data>
+<data key="g">170</data>
+<data key="b">0</data>
+<data key="x">-37.030006</data>
+<data key="y">-319.64655</data>
+</node>
+<node id="28">
+<data key="label">Siberia</data>
+<data key="node">Siberia</data>
+<data key="x">172.42</data>
+<data key="y">116.12</data>
+<data key="continente">Asia</data>
+<data key="colour">#AFAA8A</data>
+<data key="modularity_class">3</data>
+<data key="pageranks">0.0298281233464795</data>
+<data key="size">37.28695</data>
+<data key="r">52</data>
+<data key="g">170</data>
+<data key="b">0</data>
+<data key="x">151.38762</data>
+<data key="y">-255.66779</data>
+</node>
+<node id="35">
+<data key="label">Mongolia</data>
+<data key="node">Mongolia</data>
+<data key="x">174.33</data>
+<data key="y">106.27</data>
+<data key="continente">Asia</data>
+<data key="colour">#AFAA8A</data>
+<data key="modularity_class">3</data>
+<data key="pageranks">0.019727616564086614</data>
+<data key="size">24.148262</data>
+<data key="r">52</data>
+<data key="g">170</data>
+<data key="b">0</data>
+<data key="x">156.14584</data>
+<data key="y">-160.75009</data>
+</node>
+<node id="36">
+<data key="label">Gobi</data>
+<data key="node">Gobi</data>
+<data key="x">178.01</data>
+<data key="y">95.84</data>
+<data key="continente">Asia</data>
+<data key="colour">#AFAA8A</data>
+<data key="modularity_class">3</data>
+<data key="pageranks">0.011317562173337624</data>
+<data key="size">13.208508</data>
+<data key="r">52</data>
+<data key="g">170</data>
+<data key="b">0</data>
+<data key="x">111.77292</data>
+<data key="y">-123.4785</data>
+</node>
+<node id="29">
+<data key="label">Taimir</data>
+<data key="node">Taimir</data>
+<data key="x">171.1</data>
+<data key="y">124.06</data>
+<data key="continente">Asia</data>
+<data key="colour">#AFAA8A</data>
+<data key="modularity_class">3</data>
+<data key="pageranks">0.011889299096381764</data>
+<data key="size">13.952221</data>
+<data key="r">52</data>
+<data key="g">170</data>
+<data key="b">0</data>
+<data key="x">235.75946</data>
+<data key="y">-316.30716</data>
+</node>
+<node id="30">
+<data key="label">Tartaria</data>
+<data key="node">Tartaria</data>
+<data key="x">163.45</data>
+<data key="y">127.44</data>
+<data key="continente">Asia</data>
+<data key="colour">#AFAA8A</data>
+<data key="modularity_class">3</data>
+<data key="pageranks">0.01646270940687517</data>
+<data key="size">19.901287</data>
+<data key="r">52</data>
+<data key="g">170</data>
+<data key="b">0</data>
+<data key="x">241.84344</data>
+<data key="y">-237.99089</data>
+</node>
+<node id="31">
+<data key="label">Aral</data>
+<data key="node">Aral</data>
+<data key="x">156.4</data>
+<data key="y">119.06</data>
+<data key="continente">Asia</data>
+<data key="colour">#AFAA8A</data>
+<data key="modularity_class">4</data>
+<data key="pageranks">0.024616051098428328</data>
+<data key="size">30.50711</data>
+<data key="r">0</data>
+<data key="g">173</data>
+<data key="b">222</data>
+<data key="x">217.78998</data>
+<data key="y">-114.6826</data>
+</node>
+<node id="42">
+<data key="label">Rusia</data>
+<data key="node">Rusia</data>
+<data key="x">150.96</data>
+<data key="y">108.19</data>
+<data key="continente">Europa</data>
+<data key="colour">#CBB2B6</data>
+<data key="modularity_class">4</data>
+<data key="pageranks">0.026034919820283983</data>
+<data key="size">32.352768</data>
+<data key="r">0</data>
+<data key="g">173</data>
+<data key="b">222</data>
+<data key="x">256.47528</data>
+<data key="y">69.76485</data>
+</node>
+<node id="33">
+<data key="label">Turquia</data>
+<data key="node">Turquia</data>
+<data key="x">165.51</data>
+<data key="y">81.73</data>
+<data key="continente">Asia</data>
+<data key="colour">#AFAA8A</data>
+<data key="modularity_class">4</data>
+<data key="pageranks">0.030572815948059207</data>
+<data key="size">38.25564</data>
+<data key="r">0</data>
+<data key="g">173</data>
+<data key="b">222</data>
+<data key="x">196.7741</data>
+<data key="y">154.68864</data>
+</node>
+<node id="37">
+<data key="label">Arabia</data>
+<data key="node">Arabia</data>
+<data key="x">169.48</data>
+<data key="y">67.03</data>
+<data key="continente">Asia</data>
+<data key="colour">#AFAA8A</data>
+<data key="modularity_class">4</data>
+<data key="pageranks">0.012131546758415655</data>
+<data key="size">14.267335</data>
+<data key="r">0</data>
+<data key="g">173</data>
+<data key="b">222</data>
+<data key="x">273.74088</data>
+<data key="y">184.05904</data>
+</node>
+<node id="34">
+<data key="label">Israel</data>
+<data key="node">Israel</data>
+<data key="x">160.51</data>
+<data key="y">72.03</data>
+<data key="continente">Asia</data>
+<data key="colour">#AFAA8A</data>
+<data key="modularity_class">4</data>
+<data key="pageranks">0.01694205438765592</data>
+<data key="size">20.524817</data>
+<data key="r">0</data>
+<data key="g">173</data>
+<data key="b">222</data>
+<data key="x">191.12631</data>
+<data key="y">240.99347</data>
+</node>
+<node id="41">
+<data key="label">Polonia</data>
+<data key="node">Polonia</data>
+<data key="x">147.43</data>
+<data key="y">88.05</data>
+<data key="continente">Europa</data>
+<data key="colour">#CBB2B6</data>
+<data key="modularity_class">4</data>
+<data key="pageranks">0.021761989602141794</data>
+<data key="size">26.794563</data>
+<data key="r">0</data>
+<data key="g">173</data>
+<data key="b">222</data>
+<data key="x">259.58386</data>
+<data key="y">251.0065</data>
+</node>
+<node id="1">
+<data key="label">Egipto</data>
+<data key="node">Egipto</data>
+<data key="x">153.31</data>
+<data key="y">52.33</data>
+<data key="continente">Africa</data>
+<data key="colour">#CFA280</data>
+<data key="modularity_class">5</data>
+<data key="pageranks">0.0314560752724329</data>
+<data key="size">39.404575</data>
+<data key="r">158</data>
+<data key="g">118</data>
+<data key="b">0</data>
+<data key="x">140.99612</data>
+<data key="y">324.25626</data>
+</node>
+<node id="2">
+<data key="label">Madagascar</data>
+<data key="node">Madagascar</data>
+<data key="x">168.16</data>
+<data key="y">36.01</data>
+<data key="continente">Africa</data>
+<data key="colour">#CFA280</data>
+<data key="modularity_class">5</data>
+<data key="pageranks">0.012359924503267401</data>
+<data key="size">14.564407</data>
+<data key="r">158</data>
+<data key="g">118</data>
+<data key="b">0</data>
+<data key="x">143.88528</data>
+<data key="y">442.46008</data>
+</node>
+<node id="3">
+<data key="label">Etiopia</data>
+<data key="node">Etiopia</data>
+<data key="x">149.2</data>
+<data key="y">44.98</data>
+<data key="continente">Africa</data>
+<data key="colour">#CFA280</data>
+<data key="modularity_class">5</data>
+<data key="pageranks">0.022424334155506008</data>
+<data key="size">27.656137</data>
+<data key="r">158</data>
+<data key="g">118</data>
+<data key="b">0</data>
+<data key="x">73.04276</data>
+<data key="y">443.17783</data>
+</node>
+<node id="5">
+<data key="label">Sahara</data>
+<data key="node">Sahara</data>
+<data key="x">128.76</data>
+<data key="y">49.54</data>
+<data key="continente">Africa</data>
+<data key="colour">#CFA280</data>
+<data key="modularity_class">5</data>
+<data key="pageranks">0.027516228979715188</data>
+<data key="size">34.279648</data>
+<data key="r">158</data>
+<data key="g">118</data>
+<data key="b">0</data>
+<data key="x">10.112659</data>
+<data key="y">384.4446</data>
+</node>
+<node id="4">
+<data key="label">Zaire</data>
+<data key="node">Zaire</data>
+<data key="x">139.05</data>
+<data key="y">39.69</data>
+<data key="continente">Africa</data>
+<data key="colour">#CFA280</data>
+<data key="modularity_class">5</data>
+<data key="pageranks">0.023083310960046358</data>
+<data key="size">28.51333</data>
+<data key="r">158</data>
+<data key="g">118</data>
+<data key="b">0</data>
+<data key="x">27.967974</data>
+<data key="y">518.83887</data>
+</node>
+<node id="6">
+<data key="label">Sudafrica</data>
+<data key="node">Sudafrica</data>
+<data key="x">150.52</data>
+<data key="y">29.99</data>
+<data key="continente">Africa</data>
+<data key="colour">#CFA280</data>
+<data key="modularity_class">5</data>
+<data key="pageranks">0.012669564420321968</data>
+<data key="size">14.967185</data>
+<data key="r">158</data>
+<data key="g">118</data>
+<data key="b">0</data>
+<data key="x">46.527977</data>
+<data key="y">579.8759</data>
+</node>
+<node id="38">
+<data key="label">España</data>
+<data key="node">España</data>
+<data key="x">109.8</data>
+<data key="y">69.67</data>
+<data key="continente">Europa</data>
+<data key="colour">#CBB2B6</data>
+<data key="modularity_class">6</data>
+<data key="pageranks">0.01965999178246008</data>
+<data key="size">24.060295</data>
+<data key="r">224</data>
+<data key="g">77</data>
+<data key="b">154</data>
+<data key="x">222.0313</data>
+<data key="y">455.3536</data>
+</node>
+<node id="39">
+<data key="label">Francia</data>
+<data key="node">Francia</data>
+<data key="x">124.35</data>
+<data key="y">78.79</data>
+<data key="continente">Europa</data>
+<data key="colour">#CBB2B6</data>
+<data key="modularity_class">6</data>
+<data key="pageranks">0.021953375087371402</data>
+<data key="size">27.043516</data>
+<data key="r">224</data>
+<data key="g">77</data>
+<data key="b">154</data>
+<data key="x">344.08087</data>
+<data key="y">518.29047</data>
+</node>
+<node id="45">
+<data key="label">Gran Bretaña</data>
+<data key="node">Gran Bretaña</data>
+<data key="x">114.95</data>
+<data key="y">93.05</data>
+<data key="continente">Europa</data>
+<data key="colour">#CBB2B6</data>
+<data key="modularity_class">6</data>
+<data key="pageranks">0.02029089544707787</data>
+<data key="size">24.880972</data>
+<data key="r">224</data>
+<data key="g">77</data>
+<data key="b">154</data>
+<data key="x">382.42065</data>
+<data key="y">418.31332</data>
+</node>
+<node id="46">
+<data key="label">Italia</data>
+<data key="node">Italia</data>
+<data key="x">136.7</data>
+<data key="y">66.88</data>
+<data key="continente">Europa</data>
+<data key="colour">#CBB2B6</data>
+<data key="modularity_class">6</data>
+<data key="pageranks">0.009226213212610948</data>
+<data key="size">10.488092</data>
+<data key="r">224</data>
+<data key="g">77</data>
+<data key="b">154</data>
+<data key="x">421.8174</data>
+<data key="y">616.5363</data>
+</node>
+<node id="40">
+<data key="label">Alemania</data>
+<data key="node">Alemania</data>
+<data key="x">137.29</data>
+<data key="y">84.37</data>
+<data key="continente">Europa</data>
+<data key="colour">#CBB2B6</data>
+<data key="modularity_class">6</data>
+<data key="pageranks">0.01960690499892185</data>
+<data key="size">23.99124</data>
+<data key="r">224</data>
+<data key="g">77</data>
+<data key="b">154</data>
+<data key="x">312.56674</data>
+<data key="y">384.69098</data>
+</node>
+<node id="43">
+<data key="label">Suecia</data>
+<data key="node">Suecia</data>
+<data key="x">129.65</data>
+<data key="y">115.53</data>
+<data key="continente">Europa</data>
+<data key="colour">#CBB2B6</data>
+<data key="modularity_class">6</data>
+<data key="pageranks">0.013598537384469417</data>
+<data key="size">16.175589</data>
+<data key="r">224</data>
+<data key="g">77</data>
+<data key="b">154</data>
+<data key="x">390.3442</data>
+<data key="y">169.33986</data>
+</node>
+<edge id="0" source="7" target="8">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1" source="7" target="10">
+<data key="weight">1.0</data>
+</edge>
+<edge id="2" source="8" target="9">
+<data key="weight">1.0</data>
+</edge>
+<edge id="3" source="8" target="10">
+<data key="weight">1.0</data>
+</edge>
+<edge id="4" source="9" target="12">
+<data key="weight">1.0</data>
+</edge>
+<edge id="5" source="9" target="13">
+<data key="weight">1.0</data>
+</edge>
+<edge id="6" source="9" target="10">
+<data key="weight">1.0</data>
+</edge>
+<edge id="7" source="10" target="11">
+<data key="weight">1.0</data>
+</edge>
+<edge id="8" source="10" target="12">
+<data key="weight">1.0</data>
+</edge>
+<edge id="9" source="11" target="12">
+<data key="weight">1.0</data>
+</edge>
+<edge id="10" source="11" target="16">
+<data key="weight">1.0</data>
+</edge>
+<edge id="11" source="12" target="13">
+<data key="weight">1.0</data>
+</edge>
+<edge id="12" source="12" target="15">
+<data key="weight">1.0</data>
+</edge>
+<edge id="13" source="13" target="14">
+<data key="weight">1.0</data>
+</edge>
+<edge id="14" source="14" target="15">
+<data key="weight">1.0</data>
+</edge>
+<edge id="16" source="16" target="17">
+<data key="weight">1.0</data>
+</edge>
+<edge id="17" source="17" target="19">
+<data key="weight">1.0</data>
+</edge>
+<edge id="18" source="17" target="18">
+<data key="weight">1.0</data>
+</edge>
+<edge id="19" source="18" target="19">
+<data key="weight">1.0</data>
+</edge>
+<edge id="20" source="18" target="20">
+<data key="weight">1.0</data>
+</edge>
+<edge id="21" source="18" target="21">
+<data key="weight">1.0</data>
+</edge>
+<edge id="22" source="19" target="22">
+<data key="weight">1.0</data>
+</edge>
+<edge id="23" source="19" target="20">
+<data key="weight">1.0</data>
+</edge>
+<edge id="24" source="20" target="22">
+<data key="weight">1.0</data>
+</edge>
+<edge id="25" source="20" target="21">
+<data key="weight">1.0</data>
+</edge>
+<edge id="26" source="21" target="47">
+<data key="weight">1.0</data>
+</edge>
+<edge id="27" source="47" target="50">
+<data key="weight">1.0</data>
+</edge>
+<edge id="28" source="47" target="48">
+<data key="weight">1.0</data>
+</edge>
+<edge id="29" source="47" target="49">
+<data key="weight">1.0</data>
+</edge>
+<edge id="30" source="48" target="23">
+<data key="weight">1.0</data>
+</edge>
+<edge id="31" source="49" target="24">
+<data key="weight">1.0</data>
+</edge>
+<edge id="32" source="23" target="24">
+<data key="weight">1.0</data>
+</edge>
+<edge id="33" source="23" target="25">
+<data key="weight">1.0</data>
+</edge>
+<edge id="34" source="24" target="25">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35" source="24" target="32">
+<data key="weight">1.0</data>
+</edge>
+<edge id="36" source="25" target="26">
+<data key="weight">1.0</data>
+</edge>
+<edge id="37" source="25" target="27">
+<data key="weight">1.0</data>
+</edge>
+<edge id="38" source="25" target="28">
+<data key="weight">1.0</data>
+</edge>
+<edge id="39" source="25" target="35">
+<data key="weight">1.0</data>
+</edge>
+<edge id="40" source="25" target="36">
+<data key="weight">1.0</data>
+</edge>
+<edge id="41" source="25" target="32">
+<data key="weight">1.0</data>
+</edge>
+<edge id="42" source="26" target="27">
+<data key="weight">1.0</data>
+</edge>
+<edge id="43" source="27" target="7">
+<data key="weight">1.0</data>
+</edge>
+<edge id="44" source="27" target="28">
+<data key="weight">1.0</data>
+</edge>
+<edge id="45" source="28" target="29">
+<data key="weight">1.0</data>
+</edge>
+<edge id="46" source="28" target="30">
+<data key="weight">1.0</data>
+</edge>
+<edge id="47" source="28" target="31">
+<data key="weight">1.0</data>
+</edge>
+<edge id="48" source="28" target="35">
+<data key="weight">1.0</data>
+</edge>
+<edge id="49" source="29" target="30">
+<data key="weight">1.0</data>
+</edge>
+<edge id="50" source="30" target="31">
+<data key="weight">1.0</data>
+</edge>
+<edge id="51" source="31" target="42">
+<data key="weight">1.0</data>
+</edge>
+<edge id="52" source="31" target="32">
+<data key="weight">1.0</data>
+</edge>
+<edge id="53" source="32" target="35">
+<data key="weight">1.0</data>
+</edge>
+<edge id="54" source="31" target="35">
+<data key="weight">1.0</data>
+</edge>
+<edge id="55" source="32" target="36">
+<data key="weight">1.0</data>
+</edge>
+<edge id="56" source="32" target="42">
+<data key="weight">1.0</data>
+</edge>
+<edge id="57" source="32" target="33">
+<data key="weight">1.0</data>
+</edge>
+<edge id="58" source="33" target="37">
+<data key="weight">1.0</data>
+</edge>
+<edge id="59" source="33" target="34">
+<data key="weight">1.0</data>
+</edge>
+<edge id="60" source="33" target="42">
+<data key="weight">1.0</data>
+</edge>
+<edge id="61" source="33" target="41">
+<data key="weight">1.0</data>
+</edge>
+<edge id="62" source="33" target="1">
+<data key="weight">1.0</data>
+</edge>
+<edge id="63" source="34" target="37">
+<data key="weight">1.0</data>
+</edge>
+<edge id="64" source="34" target="1">
+<data key="weight">1.0</data>
+</edge>
+<edge id="65" source="1" target="41">
+<data key="weight">1.0</data>
+</edge>
+<edge id="66" source="1" target="2">
+<data key="weight">1.0</data>
+</edge>
+<edge id="67" source="1" target="3">
+<data key="weight">1.0</data>
+</edge>
+<edge id="68" source="1" target="5">
+<data key="weight">1.0</data>
+</edge>
+<edge id="69" source="2" target="4">
+<data key="weight">1.0</data>
+</edge>
+<edge id="70" source="3" target="5">
+<data key="weight">1.0</data>
+</edge>
+<edge id="71" source="3" target="4">
+<data key="weight">1.0</data>
+</edge>
+<edge id="72" source="3" target="6">
+<data key="weight">1.0</data>
+</edge>
+<edge id="73" source="4" target="5">
+<data key="weight">1.0</data>
+</edge>
+<edge id="74" source="4" target="6">
+<data key="weight">1.0</data>
+</edge>
+<edge id="75" source="5" target="38">
+<data key="weight">1.0</data>
+</edge>
+<edge id="76" source="5" target="19">
+<data key="weight">1.0</data>
+</edge>
+<edge id="77" source="38" target="39">
+<data key="weight">1.0</data>
+</edge>
+<edge id="78" source="38" target="45">
+<data key="weight">1.0</data>
+</edge>
+<edge id="79" source="39" target="46">
+<data key="weight">1.0</data>
+</edge>
+<edge id="80" source="39" target="40">
+<data key="weight">1.0</data>
+</edge>
+<edge id="81" source="40" target="41">
+<data key="weight">1.0</data>
+</edge>
+<edge id="82" source="40" target="45">
+<data key="weight">1.0</data>
+</edge>
+<edge id="83" source="41" target="42">
+<data key="weight">1.0</data>
+</edge>
+<edge id="84" source="42" target="43">
+<data key="weight">1.0</data>
+</edge>
+<edge id="85" source="43" target="44">
+<data key="weight">1.0</data>
+</edge>
+<edge id="87" source="44" target="45">
+<data key="weight">1.0</data>
+</edge>
+</graph>
+</graphml>
